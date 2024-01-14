@@ -1,0 +1,10 @@
+{
+  "name": "SWAdditionalSuits",
+  "version_number": "1.0.1",
+  "website_url": "https://senkawolf.com",
+  "description": "A pack of randomly made suits!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "AlexCodesGames-AdditionalContentFramework-1.0.3"
+  ]
+}
