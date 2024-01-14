@@ -1,5 +1,6 @@
 
-# Additional Suits MOD
+# SW Additional Suits MOD
+
 ## About
 A pack of randomly made suits for Lethal Company using AlexCodesGames template.
 
