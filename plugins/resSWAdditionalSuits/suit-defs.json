@@ -68,6 +68,16 @@
       "suitID": "10_PurpleBlack_Suit",
       "suitName": "Purple & Black Suit",
       "suitTexture": "10_PurpleBlack_Suit.png"
+    },
+    {
+      "suitID": "11_MissingTexture_Suit",
+      "suitName": "Missing Texture Suit",
+      "suitTexture": "11_MissingTexture_Suit.png"
+    },
+    {
+      "suitID": "12_Toothless_Suit",
+      "suitName": "Missing Texture Suit",
+      "suitTexture": "12_Toothless_Suit.png"
     }
   ]
 }
