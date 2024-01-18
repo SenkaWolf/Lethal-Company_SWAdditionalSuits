@@ -8,6 +8,8 @@ Please show your appreciation for the original creator! My contribution was simp
 
 [🔗 Original Mod Link](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits)
 
+If you'd like to see any suits added then create an issue at [🌐 Github](https://github.com/SenkaWolf/Lethal-Company_SWAdditionalSuits/issues/new) and provide details. Please note not every suggestion will be added.
+
 ### Skin List (not in order):
 
 |          Suit Name         |                         Description/Info                   |
