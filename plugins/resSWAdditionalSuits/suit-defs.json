@@ -78,6 +78,11 @@
       "suitID": "12_Toothless_Suit",
       "suitName": "Missing Texture Suit",
       "suitTexture": "12_Toothless_Suit.png"
+    },
+    {
+      "suitID": "13_Fancy_Suit",
+      "suitName": "Fancy Suit",
+      "suitTexture": "13_Fancy_Suit.png"
     }
   ]
 }
