@@ -27,6 +27,7 @@ If you'd like to see any suits added then create an issue at [🌐 Github](https
 | Black & Pink Suit          | Custom suit for Mr.Salty.                                  |
 | Purple & Black Suit        | Custom suit for myself.                                    |
 | Toothless Suit             | Custom suit for MJ.                                        |
+| Fancy Suit                 | You always need to look your best!                         |
 
 ***
 

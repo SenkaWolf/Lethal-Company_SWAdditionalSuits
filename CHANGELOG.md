@@ -1,4 +1,6 @@
 ### Changelog
+	- v1.0.3 (WIP)
+		- Fancy Suit Added
 	- v1.0.2
 		- Updated Read me file
 		- Moved change log to seperate file
