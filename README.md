@@ -35,4 +35,4 @@ If you'd like to see any suits added then create an issue at [🌐 Github](https
 >
 > [🌐 Website](https:senkawolf.com)
 >
-> [🖥️ Github]([https:senkawolf.com](https://github.com/SenkaWolf/Lethal-Company_SWAdditionalSuits)
+> [🖥️ Github](https://github.com/SenkaWolf/Lethal-Company_SWAdditionalSuits)
