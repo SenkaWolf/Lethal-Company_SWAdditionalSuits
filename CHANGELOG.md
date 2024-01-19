@@ -1,5 +1,5 @@
 ### Changelog
-	- v1.0.3 (WIP)
+	- v1.0.3
 		- Fancy Suit Added
 		- Fixed Toothless Suit Name
 	- v1.0.2
