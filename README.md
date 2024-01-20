@@ -10,6 +10,10 @@ Please show your appreciation for the original creator! My contribution was simp
 
 If you have an issue to report or you'd like to see any suits added then create an [🌐 issue](https://github.com/SenkaWolf/Lethal-Company_SWAdditionalSuits/issues/new) and provide details. Please note not every suggestion will be added.
 
+#### Dependences
+- BepInEx-BepInExPack
+- AlexCodesGames-AdditionalContentFramework
+
 ***
 
 ### How To Install
