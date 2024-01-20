@@ -38,6 +38,4 @@ If you have an issue to report or you'd like to see any suits added then create 
 
 > ### Socials
 >
-> [🌐 Website](https:senkawolf.com)
->
 > [🖥️ Github](https://github.com/SenkaWolf/Lethal-Company_SWAdditionalSuits)
