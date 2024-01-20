@@ -48,7 +48,7 @@ Copy the folder directory 📂 `/SenkaWolfs-AdditionalSuits` then paste it into 
 - Why have almost the exact same readme files in the root and 📂 `/SenkaWolfs-AdditionalSuits` directory?
 	- The one in the root of the repository is for GitHub and the one in the 📂 `/SenkaWolfs-AdditionalSuits` directory is for the Tunderstore page.
 - Why split the readme files up?
-	- Having the github file overhead (.gitattributes, .git, LICENSE) seperated means I don't have to remove or mess around with files when releasing a new version to Tunderstore.
+	- Having the github file overhead (.gitattributes, .git, LICENSE) seperated means I don't have to remove or mess around with files when releasing a new version to Tunderstore. Yes I'm lazy!
 - Not all the suits in the pack work!
 	- This happens when suit names clash and match on another pack. You will need to disable the conflicting suits pack.
 
