@@ -1,4 +1,7 @@
 ### Changelog
+	- v2.0.0 (WIP)
+		- GitHub repo directory restructure
+		- Renamed all suit file files to prevent clashes with other suit packs
 	- v1.0.3
 		- Fancy Suit Added
 		- Fixed Toothless Suit Name
